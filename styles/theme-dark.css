@@ -1,0 +1,38 @@
+.page {
+    color: rgba(244, 244, 244, 1);
+    background-color: rgba(21, 21, 21, 1);
+}
+
+.header__link {
+    color: rgba(244, 244, 244, 1);
+}
+
+.burger-menu_opened {
+    background-color: rgba(21, 21, 21, 1);
+}
+
+.burger-menu__lines,
+.burger-menu__lines::after,
+.burger-menu__lines::before {
+    background-color: rgba(244, 244, 244, 1);
+}
+
+.intro__bike-fix-line {
+    background-color: rgba(244, 244, 244, 1);
+}
+
+.bikes__card-model {
+    color: rgba(244, 244, 244, 1);
+}
+
+.trainings__box-link {
+    color: rgba(244, 244, 244, 1);
+}
+
+.footer__switch-icon-moon {
+    transform: scale(1.7);
+}
+
+.burger-menu__link {
+    color: rgba(244, 244, 244, 1);
+}

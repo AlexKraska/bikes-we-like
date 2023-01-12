@@ -1,0 +1,38 @@
+.page {
+    background-color: rgba(244, 244, 244, 1);
+    color: rgba(21, 21, 21, 1);
+}
+
+.header__link {
+    color: black;
+}
+
+.burger-menu_opened {
+    background-color: rgba(244, 244, 244, 1);
+}
+
+.burger-menu__lines,
+.burger-menu__lines::after,
+.burger-menu__lines::before {
+    background-color: rgba(21, 21, 21, 1);
+}
+
+.burger-menu__link {
+    color: black;
+}
+
+.intro__bike-fix-line {
+    background-color: rgba(215, 212, 212, 1);
+}
+
+.bikes__card-model {
+    color: black;
+}
+
+.trainings__box-link {
+    color: black;
+}
+
+.footer__switch-icon-sun {
+    transform: scale(1.7);
+}
